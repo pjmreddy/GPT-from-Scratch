@@ -1,12 +1,14 @@
-<div align="center">
 # GPT Implementation from Scratch 🚀
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0-EE4C2C.svg)](https://pytorch.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-FF6F00.svg)](https://www.tensorflow.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-FF6F00.svg)](https://tensorflow.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-</div> 
+</div>
+
 A ground-up implementation of the GPT (Generative Pre-trained Transformer) architecture, focusing on understanding and analyzing the model's core components and performance characteristics. This implementation features a detailed attention mechanism, positional embeddings, and transformer blocks built from first principles.
 
 ## 🌟 Features
@@ -140,6 +142,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ⭐️ If you find this implementation helpful, please consider giving it a star!
 
 <div align="center">
-Developed with ❤️ by [Jagan Reddy](mailto:peravali810@gmail.com) !
+
+Developed with ❤️ by [Jagan Reddy](mailto:peravali810@gmail.com)
 
 </div>
