@@ -59,7 +59,7 @@ context_vec = (attn_weights @ values)
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/pjmreddy/GPT-from-scratch.git
+git clone https://github.com/pjmreddy/GPT-from-Scratch.git
 cd GPT-from-scratch
 ```
 
