@@ -1,6 +1,6 @@
-# GPT Implementation from Scratch 🚀
-
 <div align="center">
+  
+# GPT Implementation from Scratch 🚀
 
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.3.0-EE4C2C.svg)](https://pytorch.org/)
